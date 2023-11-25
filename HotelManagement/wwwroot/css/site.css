@@ -1,27 +1,57 @@
-html {
-  font-size: 14px;
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
 }
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
-  margin-bottom: 60px;
+    background-color: white;
 }
-navbar-nav{
-    display:block;
-    justify-content:space-between;
-
+/*homepage design*/
+.navbar {
+    background-image: url("../images/front_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+}
+.container {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+.main-menu ul {
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+}
+.main-menu a {
+    font-weight: bolder;
+    font-size: 20px;
+}
+.main-menu li {
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.logo {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 30px;
+}
+/*Homapage Content*/
+.content {
+    text-align: center;
+    margin-top: 15px;
+    padding: 40px;
+    color: white;
+    font-size: 45px;
+}
+.content h1 {
+    text-shadow: 2px 2px 4px black;
+}
+.content p {
+    font-size: 20px;
 }

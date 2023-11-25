@@ -523,11 +523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
+      "projectUniqueName": "D:\\Project\\Hotel_Management\\HotelManagement\\HotelManagement.csproj",
       "projectName": "HotelManagement",
-      "projectPath": "D:\\Project\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
+      "projectPath": "D:\\Project\\Hotel_Management\\HotelManagement\\HotelManagement.csproj",
       "packagesPath": "C:\\Users\\HP PROBOOK 440 G8\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\HotelManagement\\HotelManagement\\obj\\",
+      "outputPath": "D:\\Project\\Hotel_Management\\HotelManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP PROBOOK 440 G8\\AppData\\Roaming\\NuGet\\NuGet.Config",

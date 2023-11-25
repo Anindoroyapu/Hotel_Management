@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Htv8eghhyOSz4cfYstQ0aW9nXEvDlxVYPEGXLih2V+9ukudWrwWs9ILpuwqMkTS1bnK9V9zTy1Iw5DtH57PvcA==",
+  "dgSpecHash": "xCj7l1YVqlszxAKRZfBGR8LFl1iZVe81ZdjGkHR9MTx3jWg/epq1WZCMkn5AqYpjL8rpgRlL62dmIdBq2TDKpg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
+  "projectFilePath": "D:\\Project\\Hotel_Management\\HotelManagement\\HotelManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP PROBOOK 440 G8\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\HP PROBOOK 440 G8\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
