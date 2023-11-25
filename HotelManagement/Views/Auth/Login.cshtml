@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+
+<div class="navber">
+        <div class="login-form">
+        <div class="form-container">
+            <div class="form-title">Welcome!</div>
+            <div class="form-content">
+                <div class="form-input">
+                    <input type="text" placeholder="Username">
+                    <input type="password" placeholder="Password">
+                </div>
+                <center>
+                    <div class="form-button">
+                        <a href="#">Login</a>
+                    </div>
+                </center>
+                <div class="form-subcontent">
+                    Not a member?
+                    <a asp-controller="Auth" asp-action="Signup" >Signup</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

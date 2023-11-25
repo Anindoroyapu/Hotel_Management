@@ -1,0 +1,33 @@
+﻿@{
+	ViewData["Title"] = "Signup";
+}
+<div class="navber">
+        <div class="login-form">
+        <div class="form-container">
+            <div class="form-title">Signup</div>
+            <div class="form-content">
+                <div class="form-input">
+                    <input type="text" placeholder="First name" >
+                    <input type="text" placeholder="Last name" >
+                    <input type="email" placeholder="Email" >
+                    <input type="number" placeholder="Phone" >
+                    <input type="password" placeholder="password">
+                </div>
+                <center>
+                    <div class="form-button">
+                        <a href="#">Submit</a>
+                    </div>
+                </center>
+                <div class="form-body">
+                    By clicking the Sing Up button, <br> you agree to our <br><a href="#">Terms and Condition</a> and <a href="#">policy Privacy.</a>
+                </div>
+                <div class="form-subcontent">
+
+                    Already have an account? 
+                    <a asp-controller="Auth" asp-action="Login" >
+                        Login</a>
+                </div>
+            </div>
+        </div>
+        </div>
+</div>
