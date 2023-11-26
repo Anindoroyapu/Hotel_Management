@@ -1,7 +1,7 @@
 ﻿* {
     margin: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: Poppins;
     font-size: 25px;
 }
 
@@ -34,7 +34,6 @@ body {
 }
 
 .form-input {
-    font-size: 25px;
     border: none;
 }
 
@@ -45,6 +44,9 @@ body {
     border: none;
     border-bottom: 2px solid;
     background: none;
+    outline: none;
+    font-size: 20px;
+    width: 100%;
 }
 
 .form-button a {

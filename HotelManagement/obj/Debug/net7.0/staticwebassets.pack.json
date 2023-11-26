@@ -5,60 +5,68 @@
       "PackagePath": "staticwebassets\\HotelManagement.bundle.scp.css"
     },
     {
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\NavMenu.css",
+      "PackagePath": "staticwebassets\\css\\NavMenu.css"
+    },
+    {
       "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\style-index.css",
+      "PackagePath": "staticwebassets\\css\\style-index.css"
+    },
+    {
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\style-login.css",
+      "PackagePath": "staticwebassets\\css\\style-login.css"
     },
     {
       "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big room 2.jpg",
-      "PackagePath": "staticwebassets\\images\\big room 2.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big_room.jpg",
+      "PackagePath": "staticwebassets\\images\\big_room.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big room.jpg",
-      "PackagePath": "staticwebassets\\images\\big room.jpg"
-    },
-    {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front img 2.jpg",
-      "PackagePath": "staticwebassets\\images\\front img 2.jpg"
-    },
-    {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front img 3.jpg",
-      "PackagePath": "staticwebassets\\images\\front img 3.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big_room_2.jpg",
+      "PackagePath": "staticwebassets\\images\\big_room_2.jpg"
     },
     {
       "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front_img.jpg",
       "PackagePath": "staticwebassets\\images\\front_img.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little room 1.jpg",
-      "PackagePath": "staticwebassets\\images\\little room 1.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front_img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\front_img_2.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little room 2.jpg",
-      "PackagePath": "staticwebassets\\images\\little room 2.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front_img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\front_img_3.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little room.jpg",
-      "PackagePath": "staticwebassets\\images\\little room.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little_room.jpg",
+      "PackagePath": "staticwebassets\\images\\little_room.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid room 2.jpg",
-      "PackagePath": "staticwebassets\\images\\mid room 2.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little_room_1.jpg",
+      "PackagePath": "staticwebassets\\images\\little_room_1.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid room 3.jpg",
-      "PackagePath": "staticwebassets\\images\\mid room 3.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little_room_2.jpg",
+      "PackagePath": "staticwebassets\\images\\little_room_2.jpg"
     },
     {
-      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid room.jpg",
-      "PackagePath": "staticwebassets\\images\\mid room.jpg"
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid_room.jpg",
+      "PackagePath": "staticwebassets\\images\\mid_room.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid_room_2.jpg",
+      "PackagePath": "staticwebassets\\images\\mid_room_2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid_room_3.jpg",
+      "PackagePath": "staticwebassets\\images\\mid_room_3.jpg"
     },
     {
       "Id": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\js\\site.js",

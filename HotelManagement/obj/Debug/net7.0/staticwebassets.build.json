@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "druhoBZKcOZkgCo8W1syg6K8JGq015/06H8tGLfYxKs=",
+  "Hash": "gvLpO57u3Xxcsbmmi1DXjwnCoxOtc4lKU+w3wvQWAIo=",
   "Source": "HotelManagement",
   "BasePath": "_content/HotelManagement",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "D:\\Project\\Hotel_Management\\HotelManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HotelManagement.bundle.scp.css"
     },
     {
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\NavMenu.css",
+      "SourceId": "HotelManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
+      "BasePath": "_content/HotelManagement",
+      "RelativePath": "css/NavMenu.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\NavMenu.css"
+    },
+    {
       "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\site.css",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
@@ -68,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\style.css",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\style-index.css",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "css/style.css",
+      "RelativePath": "css/style-index.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,7 +99,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
+      "OriginalItemSpec": "wwwroot\\css\\style-index.css"
+    },
+    {
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\css\\style-login.css",
+      "SourceId": "HotelManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
+      "BasePath": "_content/HotelManagement",
+      "RelativePath": "css/style-login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style-login.css"
     },
     {
       "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\favicon.ico",
@@ -102,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big room 2.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big_room.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/big room 2.jpg",
+      "RelativePath": "images/big_room.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\big room 2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\big_room.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big room.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\big_room_2.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/big room.jpg",
+      "RelativePath": "images/big_room_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,41 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\big room.jpg"
-    },
-    {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front img 2.jpg",
-      "SourceId": "HotelManagement",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
-      "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/front img 2.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\front img 2.jpg"
-    },
-    {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front img 3.jpg",
-      "SourceId": "HotelManagement",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
-      "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/front img 3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\front img 3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\big_room_2.jpg"
     },
     {
       "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front_img.jpg",
@@ -187,12 +187,12 @@
       "OriginalItemSpec": "wwwroot\\images\\front_img.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little room 1.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front_img_2.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/little room 1.jpg",
+      "RelativePath": "images/front_img_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\little room 1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\front_img_2.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little room 2.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\front_img_3.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/little room 2.jpg",
+      "RelativePath": "images/front_img_3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\little room 2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\front_img_3.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little room.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little_room.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/little room.jpg",
+      "RelativePath": "images/little_room.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\little room.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\little_room.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid room 2.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little_room_1.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/mid room 2.jpg",
+      "RelativePath": "images/little_room_1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mid room 2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\little_room_1.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid room 3.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\little_room_2.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/mid room 3.jpg",
+      "RelativePath": "images/little_room_2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mid room 3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\little_room_2.jpg"
     },
     {
-      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid room.jpg",
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid_room.jpg",
       "SourceId": "HotelManagement",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
       "BasePath": "_content/HotelManagement",
-      "RelativePath": "images/mid room.jpg",
+      "RelativePath": "images/mid_room.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,7 +286,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mid room.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\mid_room.jpg"
+    },
+    {
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid_room_2.jpg",
+      "SourceId": "HotelManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
+      "BasePath": "_content/HotelManagement",
+      "RelativePath": "images/mid_room_2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mid_room_2.jpg"
+    },
+    {
+      "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\images\\mid_room_3.jpg",
+      "SourceId": "HotelManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\",
+      "BasePath": "_content/HotelManagement",
+      "RelativePath": "images/mid_room_3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mid_room_3.jpg"
     },
     {
       "Identity": "D:\\Project\\Hotel_Management\\HotelManagement\\wwwroot\\js\\site.js",

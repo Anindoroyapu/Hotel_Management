@@ -1,0 +1,119 @@
+﻿* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+
+body {
+    background-color: white;
+}
+/*homepage design*/
+.navbar {
+    background-image: url("../images/front_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+}
+
+.container {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+.main-menu ul {
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+}
+
+.main-menu a {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.main-menu li {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.logo {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 30px;
+}
+/*Homapage Content*/
+.content {
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 35px;
+    color: white;
+    font-size: 45px;
+}
+
+.content h1 {
+    text-shadow: 2px 2px 4px black;
+}
+.content p {
+    font-size: 20px;
+    
+}
+/* Testimonials*/
+.testimonials {
+    padding: 40px 0;
+    color: #000;
+}
+.testimonials-heading{
+    font-size: 45px;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    margin-bottom:45px;
+}
+
+.testimonials-grid {
+    justify-content:space-between;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 45px;
+    margin:0 150px 0 150px;
+
+}
+.testimonials-grid p{
+    color:#fff;
+    font-weight:bolder;
+    float:left;
+}
+.testimonials p{
+    float:left;
+}
+ .card-one {
+        background-image: url("../images/little_room.jpg");
+        color: #000;
+        border-radius: 10px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 150px;
+}
+.card-two {
+    background-image: url("../images/mid_room.jpg");
+    color: #000;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px;
+}
+.card-three {
+    background-image: url("../images/big_room.jpg");
+    color: #000;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px;
+}
