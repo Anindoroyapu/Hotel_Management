@@ -6,9 +6,8 @@ namespace HotelManagement.Models
     {
         public DbSet<Signup> FirstName { get; set; }
       
-        public SignupContext(DbContextOptions options)
-        {
-            
+        public SignupContext(DbContextOptions options) :base(options) {
         }
+
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using HotelManagement.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HotelManagement.Controllers
@@ -12,7 +13,7 @@ namespace HotelManagement.Controllers
         }
         public ActionResult Login()
         {
-            return View("Login");
+            return View();
         }
         public ActionResult Signup()
         {

@@ -1,3 +1,8 @@
+using HotelManagement.Models;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Scaffolding.Metadata;
+
 namespace HotelManagement
 {
     public class Program
@@ -6,8 +11,13 @@ namespace HotelManagement
         {
             var builder = WebApplication.CreateBuilder(args);
 
+ 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<SignupContext>(options =>
+
+            options.UseSqlServer("Data Source=DESKTOP-R6FGGGQ\\SQLEXPRESS;Initial Catalog=HotelManagement;Integrated Security=True;TrustServerCertificate=True"));
 
             var app = builder.Build();
 

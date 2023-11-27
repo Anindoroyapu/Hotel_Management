@@ -51,10 +51,11 @@ a {
 /*Homapage Content*/
 .content {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 10px;
     padding-top: 35px;
     color: white;
     font-size: 45px;
+    display:block;
 }
 
 .content h1 {
@@ -117,3 +118,204 @@ a {
     background-repeat: no-repeat;
     padding: 150px;
 }
+
+/* Pricing*/
+.pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.pricing-card-subheading {
+    margin-bottom: 30px;
+}
+
+.pricing-card-price {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 25px;
+    border-bottom: 1px solid #ccc;
+}
+
+.pricing ul {
+    margin: 30px;
+}
+
+    .pricing ul li {
+        margin-bottom: 20px;
+    }
+
+        .pricing ul li i {
+            margin-right: 10px;
+        }
+
+.pricing .pricing-footer {
+    margin: 30px 0;
+}
+
+.pricing-heading {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.2;
+    font-weight: normal;
+    text-align: center;
+}
+
+    .pricing-heading h3 {
+        font-weight: bolder;
+    }
+
+.pricing-card-subheading {
+    text-align: center;
+}
+
+.pricing-subheading {
+    text-align: center;
+    font-size: 25px;
+}
+
+/* FAQ*/
+.faq {
+    padding: 40px;
+}
+
+.faq-group {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.faq .faq-group .faq-group-header {
+    padding: 20px 0;
+    margin-bottom: 15px;
+    position: relative;
+    cursor: pointer;
+}
+
+    .faq .faq-group .faq-group-header h4 {
+        font-weight: 600;
+        width: 95%;
+    }
+
+    .faq .faq-group .faq-group-header i {
+        position: absolute;
+        right: 0;
+        top: 45px;
+        font-size: 1.3rem;
+        cursor: pointer
+    }
+
+.faq .faq-group .faq-group-body {
+    display: none;
+}
+
+    .faq .faq-group .faq-group-body.open {
+        display: block;
+    }
+
+.faq ul.faq-menu {
+    max-width: 400px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ddd;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+    .faq ul.faq-menu li {
+        padding: 2px;
+        border-radius: 5px;
+        text-align: center;
+    }
+
+        .faq ul.faq-menu li.active {
+            background: var(--primary-color);
+            padding: 5px;
+            color: #fff;
+        }
+/*Footer*/
+.footer {
+    padding: 10px 10px;
+    background-color: #000;
+}
+
+    .footer h4 {
+        margin-bottom: 10px;
+    }
+
+    .footer ul li {
+        line-height: 2.5;
+    }
+
+    .footer a {
+        color: #ccc;
+    }
+
+    .footer i {
+        font-size: 1.5rem;
+        margin-right: 10px;
+    }
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 40px;
+}
+
+.footer .card {
+    margin: 20px 30px 30px 0;
+}
+
+.footer input[type='email'] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+/* Card*/
+.card {
+    background: #e1e3e3;
+    color: #000;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 4px black;
+}
+.container-sm {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.text-xl {
+    font-size: 2.2rem;
+    line-height: 1.4;
+    font-weight: normal;
+    margin: 40px 0 20px;
+}
+/* Buttons*/
+.btn {
+    background-color:cornflowerblue;
+    display: inline-block;
+    padding: 3px 5px;
+    color: #333;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    text-align:center;
+}
+
+    .btn:hover {
+        opacity: 0.8;
+    }
