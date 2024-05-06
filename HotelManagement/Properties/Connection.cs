@@ -21,7 +21,7 @@ namespace HotelManagement.Properties
             SqlCommand cmd = new SqlCommand("insert into ut values(@fName,@lName,@rEmail,@rPhone,@rPassword)", conn);
 
             
-            cmd.Parameters.AddWithValue("@fName", ());
+            cmd.Parameters.AddWithValue();
 
 
         }

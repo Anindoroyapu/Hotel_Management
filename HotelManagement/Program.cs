@@ -16,9 +16,10 @@ namespace HotelManagement
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<SignupContext>(options =>
+            {
 
-            options.UseSqlServer("Data Source=DESKTOP-R6FGGGQ\\SQLEXPRESS;Initial Catalog=HotelManagement;Integrated Security=True;TrustServerCertificate=True"));
-
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
